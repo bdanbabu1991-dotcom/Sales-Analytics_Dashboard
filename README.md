@@ -73,5 +73,6 @@ CALCULATE(
     DATEADD('Dim_Date'[Order Date], -1, MONTH)
 )
 
-[Executive_Performance.png]
+[Executive Performance](images/Executive_Performance.png)
+
 
