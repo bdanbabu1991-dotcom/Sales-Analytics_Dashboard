@@ -72,4 +72,17 @@ CALCULATE(
     [Total Sales],
     DATEADD('Dim_Date'[Order Date], -1, MONTH)
 )
-RETURN DIVIDE([Total Sales] - Prev, P
+
+## 📷 Dashboard Preview
+
+### Executive Performance
+![Executive Performance](Images/executive_performance.png)
+
+### Product Insights
+![Product Insights](Images/product_insights.png)
+
+### Outlet Dashboard
+![Outlet Dashboard](Images/outlet_dashboard.png)
+
+### Sales Dashboard
+![Sales Dashboard](Images/sales_dashboard.png)
