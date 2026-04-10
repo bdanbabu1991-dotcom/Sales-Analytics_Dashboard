@@ -76,13 +76,13 @@ CALCULATE(
 ## 📷 Dashboard Preview
 
 ### Executive Performance
-![Executive Performance](Images/executive_performance.png)
+![Executive Performance](Images/Executive_Performance.png)
 
 ### Product Insights
-![Product Insights](Images/product_insights.png)
+![Product Insights](Images/Product_Insights.png)
 
 ### Outlet Dashboard
-![Outlet Dashboard](Images/outlet_dashboard.png)
+![Outlet Dashboard](Images/Outlet_Dashboard.png)
 
 ### Sales Dashboard
-![Sales Dashboard](Images/sales_dashboard.png)
+![Sales Dashboard](Images/Sales_Dashboard.png)
