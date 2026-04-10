@@ -73,16 +73,5 @@ CALCULATE(
     DATEADD('Dim_Date'[Order Date], -1, MONTH)
 )
 
-## 📷 Dashboard Preview
+[Executive_Performance.png]
 
-### Executive Performance
-[Executive Performance](Images/Executive_Performance.png)
-
-### Product Insights
-[Product Insights](Images/Product_Insights.png)
-
-### Outlet Dashboard
-[Outlet Dashboard](Images/Outlet_Dashboard.png)
-
-### Sales Dashboard
-[Sales Dashboard](Images/Sales_Dashboards.png)
