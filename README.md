@@ -72,7 +72,4 @@ CALCULATE(
     [Total Sales],
     DATEADD('Dim_Date'[Order Date], -1, MONTH)
 )
-
-Sales Growth % =
-VAR Prev = [Prev Month Sales]
-RETURN DIVIDE([Total Sales] - Prev, Prev, 0)
+RETURN DIVIDE([Total Sales] - Prev, P
